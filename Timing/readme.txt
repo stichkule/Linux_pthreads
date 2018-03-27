@@ -1,16 +1,3 @@
-ECEN 5623 -- EXERCISE-1
-Shiril Tichkule, Srivishnu Alvakonda
-
-README
-
-Problem 3:
-
-List of submitted files --
-1. posix_clock.c
-2. analyze_jitter.c
-3. Makefile
-4. measure_delay.sh
-
 Instructions to be followed in sequence --
 
 1. make all -- this builds posix_clock and analyze_jitter
